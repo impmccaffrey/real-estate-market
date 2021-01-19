@@ -1,0 +1,13 @@
+google-cloud-bigquery
+requests
+bs4
+fake_useragent
+fbprophet
+sklearn
+matplotlib
+pandas
+plotly
+pytest
+numpy
+notebook
+ipywidgets
