@@ -2,6 +2,12 @@
 
 This project explores real estate data trends and makes some prediction for future outcomes. Of particular interest is predicting active listings by month.
 
+## Results
+View the [fbprohpet notebook](fb-prophet-forecast.ipynb) for the current set of interesting results including the detailed predictions. Here's a look at the chart output:
+
+![forecast](https://i.imgur.com/5VrXXa4.png)
+![decomposition](https://i.imgur.com/8jMDKUK.png)
+
 ## Motivation
  It is at the present *very* difficult to purchase a house in the market I am interested in, which in my case are the exurbs of the Boston metro. Housing inventory seems to be nonexistent. It's a bad sign when you open Zillow in the morning to find every house has already been clicked on, and no new ones are being added.
  
